@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/simonojok19/TraChat/issues"
   },
-  "homepage": "https://github.com/simonojok19/TraChat#readme"
+  "homepage": "https://github.com/simonojok19/TraChat#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-stage-2": "^7.0.0",
+    "babel-loader": "^8.0.6"
+  }
 }
