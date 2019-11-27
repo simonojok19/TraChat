@@ -1,0 +1,22 @@
+{
+  "name": "trachat",
+  "version": "1.0.0",
+  "description": "Social media application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonojok19/TraChat.git"
+  },
+  "keywords": [
+    "TraChat"
+  ],
+  "author": "Simon Peter Ojok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonojok19/TraChat/issues"
+  },
+  "homepage": "https://github.com/simonojok19/TraChat#readme"
+}
